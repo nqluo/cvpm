@@ -8,7 +8,7 @@ Run the command in terminal `python cvhr.py`
 The video and rppg signal will be saved in the `rppg` folder. In case you don't want to save the video and rppg signal, set the `save_rppg = False`
 
 Below is a short video demo:
-![CVPM HR Demo](./demo/demo1.mp4 "CVPM HR Demo")
+![CVPM HR Demo](https://github.com/nqluo/cvpm/assets/18134731/64aef310-cf11-422e-8d49-f0493a1cbbd8 "CVPM HR Demo")
 
 Below is the plot of the RGB channel signal and the rPPG signal:
 
